@@ -8,3 +8,5 @@
 1. 3분이 지나면 불 끄고 먹는다.
 1. 기호에 따라 치즈를 추가한다.
 
+## 맛있는 라면
+![Easy-Chicken-Ramen-Featured](./다운로드/Easy-Chicken-Ramen-Featured.jpg)
