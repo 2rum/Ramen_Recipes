@@ -9,4 +9,4 @@
 1. 기호에 따라 치즈를 추가한다.
 
 ## 맛있는 라면
-![Easy-Chicken-Ramen-Featured](./다운로드/Easy-Chicken-Ramen-Featured.jpg)
+![Easy-Chicken-Ramen-Featured](./image/git/Easy-Chicken-Ramen-Featured.jpg)
